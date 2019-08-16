@@ -1,0 +1,32 @@
+#JSGF V1.0;
+grammar sentence;
+ 
+public <sentence> =
+[<dato0>]
+[<dato1>]
+[<dato2>]
+[<dato3>]
+[<dato4>]
+[<dato1><dato2><dato3><dato4>]
+[<dato5>][<dato6>][<dato7>][<dato8>][<dato9>][<dato10>][<dato11>][<dato12>][<dato13>][<dato14>]
+[<dato15>][<dato16>][<dato17>][<dato18>];
+ 
+<dato0>=compu sonido de hoy;
+<dato1>=computadora apaga el computador T2R;
+<dato2>=compu di alguna cosa;
+<dato3>=computadora baja el volumen h;
+<dato4>=compu sube el volumen o;
+<dato5>=Y6;
+<dato6>=U7;
+<dato7>=I8;
+<dato8>=O9;
+<dato9>=P0;
+<dato10>=Z9;
+<dato11>=X8;
+<dato12>=C7;
+<dato13>=V6;
+<dato14>=B5;
+<dato15>=N5 ;
+<dato16>=ML12;
+<dato17>=hijos;
+<dato18>=hola bebe;
